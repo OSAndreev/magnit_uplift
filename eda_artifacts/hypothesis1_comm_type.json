@@ -1,0 +1,51 @@
+{
+  "separate_models_recommended": true,
+  "max_uplift_diff": 2.9497799964266633,
+  "by_channel": [
+    {
+      "communication_type": "com_type_1",
+      "n_treatment": 58589,
+      "n_control": 59720,
+      "mean_t1": 23.1732,
+      "mean_t0": 19.395,
+      "uplift_mean": 3.7781,
+      "ci80_lo": 3.2742,
+      "ci80_hi": 4.3455,
+      "zero_pct_t1": 89.44,
+      "zero_pct_t0": 90.8356,
+      "prob_buy_uplift": 0.014,
+      "avg_spend_uplift_given_buy": 7.8092,
+      "mannwhitney_p": 0.0
+    },
+    {
+      "communication_type": "com_type_2",
+      "n_treatment": 58833,
+      "n_control": 59633,
+      "mean_t1": 21.31,
+      "mean_t0": 19.8874,
+      "uplift_mean": 1.4226,
+      "ci80_lo": 0.8624,
+      "ci80_hi": 2.048,
+      "zero_pct_t1": 90.0413,
+      "zero_pct_t0": 90.6444,
+      "prob_buy_uplift": 0.006,
+      "avg_spend_uplift_given_buy": 1.4108,
+      "mannwhitney_p": 0.0004
+    },
+    {
+      "communication_type": "com_type_3",
+      "n_treatment": 58610,
+      "n_control": 59861,
+      "mean_t1": 23.7712,
+      "mean_t0": 19.3988,
+      "uplift_mean": 4.3724,
+      "ci80_lo": 3.7668,
+      "ci80_hi": 5.0094,
+      "zero_pct_t1": 89.4643,
+      "zero_pct_t0": 90.7636,
+      "prob_buy_uplift": 0.013,
+      "avg_spend_uplift_given_buy": 15.5986,
+      "mannwhitney_p": 0.0
+    }
+  ]
+}

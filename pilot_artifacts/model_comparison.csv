@@ -1,0 +1,9 @@
+model,uplift@10,ci80_lo,ci80_hi
+X-Learner Optuna,21.0739,19.4908,22.454
+X-Learner,19.9622,18.2455,21.8872
+T-Learner,18.5035,16.835,20.5097
+Optuna Hurdle,18.0536,17.0641,19.8211
+DR-Learner,17.0512,15.3955,18.981
+Hurdle T-Learner,16.745,15.653,18.6956
+Per-Channel Hurdle,15.0752,13.7572,16.9268
+Hurdle DR-Learner,10.3748,9.3049,11.5078

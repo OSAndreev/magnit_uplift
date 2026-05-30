@@ -1,0 +1,32 @@
+{
+  "params1": {
+    "n_estimators": 815,
+    "learning_rate": 0.020885994492256883,
+    "num_leaves": 152,
+    "min_child_samples": 30,
+    "subsample": 0.6753606683894059,
+    "colsample_bytree": 0.5776941233024457,
+    "reg_alpha": 0.39514160996736925,
+    "reg_lambda": 0.14382150042941225,
+    "n_jobs": -1,
+    "random_state": 42,
+    "verbose": -1
+  },
+  "params2": {
+    "n_estimators": 125,
+    "learning_rate": 0.04917469422876761,
+    "num_leaves": 18,
+    "min_child_samples": 18,
+    "subsample": 0.6688279626819189,
+    "colsample_bytree": 0.7819388413251281,
+    "reg_alpha": 0.03904267764635421,
+    "reg_lambda": 0.0939376200368345,
+    "n_jobs": -1,
+    "random_state": 42,
+    "verbose": -1
+  },
+  "prop_model": "logreg",
+  "feat_set": "all",
+  "search_uplift10": 24.57135793955637,
+  "trials_completed": 54
+}

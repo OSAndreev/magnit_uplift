@@ -1,0 +1,89 @@
+{
+  "0": {
+    "params1": {
+      "n_estimators": 417,
+      "learning_rate": 0.12278220177338822,
+      "num_leaves": 36,
+      "min_child_samples": 62,
+      "subsample": 0.99979096621604,
+      "colsample_bytree": 0.5181188440599487,
+      "reg_alpha": 0.08770218838336995,
+      "reg_lambda": 0.0017554812928803649,
+      "n_jobs": -1,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "params2": {
+      "n_estimators": 325,
+      "learning_rate": 0.020635683248070635,
+      "num_leaves": 56,
+      "min_child_samples": 45,
+      "subsample": 0.8136069880164855,
+      "colsample_bytree": 0.8308610512886054,
+      "reg_alpha": 0.02532671043893483,
+      "reg_lambda": 0.14531385140601477,
+      "n_jobs": -1,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "prop": "logreg"
+  },
+  "1": {
+    "params1": {
+      "n_estimators": 1212,
+      "learning_rate": 0.03571184529032454,
+      "num_leaves": 142,
+      "min_child_samples": 31,
+      "subsample": 0.713936197750987,
+      "colsample_bytree": 0.5184434736772664,
+      "reg_alpha": 0.13168281495926917,
+      "reg_lambda": 0.05595976937366776,
+      "n_jobs": -1,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "params2": {
+      "n_estimators": 155,
+      "learning_rate": 0.03799062688276564,
+      "num_leaves": 117,
+      "min_child_samples": 27,
+      "subsample": 0.6579579488364892,
+      "colsample_bytree": 0.7447263801387816,
+      "reg_alpha": 2.674398646018381,
+      "reg_lambda": 0.006944732617106154,
+      "n_jobs": -1,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "prop": "lgb"
+  },
+  "2": {
+    "params1": {
+      "n_estimators": 340,
+      "learning_rate": 0.13792943492612508,
+      "num_leaves": 85,
+      "min_child_samples": 60,
+      "subsample": 0.7650723155381586,
+      "colsample_bytree": 0.6324097909416916,
+      "reg_alpha": 0.17497883760313349,
+      "reg_lambda": 0.42202731071901395,
+      "n_jobs": -1,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "params2": {
+      "n_estimators": 567,
+      "learning_rate": 0.031393114856157645,
+      "num_leaves": 30,
+      "min_child_samples": 67,
+      "subsample": 0.9916455084692448,
+      "colsample_bytree": 0.5447680058218154,
+      "reg_alpha": 0.03792687382521184,
+      "reg_lambda": 0.00219449677748283,
+      "n_jobs": -1,
+      "random_state": 42,
+      "verbose": -1
+    },
+    "prop": "logreg"
+  }
+}

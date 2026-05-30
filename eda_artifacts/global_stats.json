@@ -1,0 +1,13 @@
+{
+  "n_train": 355246,
+  "n_test": 118414,
+  "n_treatment": 176032,
+  "n_control": 179214,
+  "target_zero_pct": 90.20340834238809,
+  "target_zero_pct_t1": 89.64904108343937,
+  "target_zero_pct_t0": 90.74793263919113,
+  "mean_t1": 22.74957024859117,
+  "mean_t0": 19.560115950762775,
+  "raw_global_uplift": 3.1894542978283944,
+  "mannwhitney_p": 8.425501615444814e-30
+}
